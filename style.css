@@ -240,31 +240,31 @@ nav {
 
 /* Иконки для пунктов меню */
 .profile-link::before {
-    background-image: url("/image/icon_prof1.svg");
+    background-image: url("image/icon_prof1.svg");
 }
 
 .photos-link::before {
-		background-image: url("/image/icon_prof2.svg");
+		background-image: url("image/icon_prof2.svg");
 	}
 
 .messages-link::before {
-    background-image: url("/image/icon_prof3.svg");
+    background-image: url("image/icon_prof3.svg");
 }
 
 .favorites-link::before {
-    background-image: url("/image/icon_prof4.svg");
+    background-image: url("image/icon_prof4.svg");
 }
 
 .guests-link::before {
-    background-image: url("/image/icon_prof5.svg");
+    background-image: url("image/icon_prof5.svg");
 }
 
 .settings-link::before {
-    background-image: url("/image/icon_prof6.svg");
+    background-image: url("image/icon_prof6.svg");
 }
 
 .logout-link::before {
-    background-image: url("/image/icon_prof7.svg");
+    background-image: url("image/icon_prof7.svg");
 }
 
 /* Layout */
@@ -725,27 +725,27 @@ nav {
 }
 
 .message-icon::before {
-    background-image: url("/image/icon_prof3.svg");
+    background-image: url("image/icon_prof3.svg");
 }
 
 .heart-icon::before {
-    background-image: url("/image/icon_prof4.svg");
+    background-image: url("image/icon_prof4.svg");
 }
 
 .gift-icon::before {
-    background-image: url("/image/icon_prof8.svg");
+    background-image: url("image/icon_prof8.svg");
 }
 
 .eye-icon::before {
-    background-image: url("/image/icon_prof3.svg");
+    background-image: url("image/icon_prof3.svg");
 }
 
 .message-alt-icon::before {
-    background-image: url("/image/icon_prof6.svg");
+    background-image: url("image/icon_prof6.svg");
 }
 
 .settings-alt-icon::before {
-    background-image: url("/image/icon_prof5.svg");
+    background-image: url("image/icon_prof5.svg");
 }
 
 .feature-text {
@@ -1577,37 +1577,37 @@ nav {
 }
 
 .burger-nav-link.profile-link::before {
-    background-image: url("/image/icon_prof1.svg");
+    background-image: url("image/icon_prof1.svg");
     filter: hue-rotate(280deg) brightness(0.9);
 }
 
 .burger-nav-link.photos-link::before {
-    background-image: url("/image/icon_prof2.svg");
+    background-image: url("image/icon_prof2.svg");
     filter: hue-rotate(280deg) brightness(0.9);
 }
 
 .burger-nav-link.messages-link::before {
-    background-image: url("/image/icon_prof3.svg");
+    background-image: url("image/icon_prof3.svg");
     filter: hue-rotate(280deg) brightness(0.9);
 }
 
 .burger-nav-link.favorites-link::before {
-    background-image: url("/image/icon_prof4.svg");
+    background-image: url("image/icon_prof4.svg");
     filter: hue-rotate(280deg) brightness(0.9);
 }
 
 .burger-nav-link.guests-link::before {
-    background-image: url("/image/icon_prof5.svg");
+    background-image: url("image/icon_prof5.svg");
     filter: hue-rotate(280deg) brightness(0.9);
 }
 
 .burger-nav-link.settings-link::before {
-    background-image: url("/image/icon_prof6.svg");
+    background-image: url("image/icon_prof6.svg");
     filter: hue-rotate(280deg) brightness(0.9);
 }
 
 .burger-nav-link.logout-link::before {
-    background-image: url("/image/icon_prof7.svg");
+    background-image: url("image/icon_prof7.svg");
     filter: hue-rotate(280deg) brightness(0.9);
 }
 
